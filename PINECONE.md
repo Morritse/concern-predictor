@@ -7,7 +7,7 @@ We maintain a vector database of past CEQA environmental documents (EIRs, MNDs, 
 ```
 Index Name:    ceqa-docs
 Host:          ceqa-docs-ur013bm.svc.aped-4627-b74a.pinecone.io
-API Key:       pcsk_747bna_Hriks9CvcRiZh93ScdpZNcdXGWqhKKMEkkx6h3PPWw8R6vMZ2vZmuwnSZW3jX2n
+API Key:       
 Dimension:     1536 (OpenAI text-embedding-ada-002 / text-embedding-3-small compatible)
 Metric:        cosine
 Total Vectors: ~9.3 million chunks
